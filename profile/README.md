@@ -19,7 +19,6 @@ Current projects:
 
 ## philosophy
 
-The Asura doesn't stop. Neither do we.
 
 We build things that work at the metal - systems that scale, primitives that hold, tools that don't get in the way.
 
